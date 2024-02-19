@@ -16,7 +16,7 @@ I've developed a backend solution for wishlist management in e-commerce. It's bu
 * Maven
 * Spring Tool Suite(STS)
 * MySQL Workbench
-* 
+ 
 # Application Setup Instructions:
 
 > 1. Clone Repository:
