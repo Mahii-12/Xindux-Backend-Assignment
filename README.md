@@ -1,3 +1,4 @@
+
 # Xindux-Backend-Assignment
 I've developed a backend solution for wishlist management in e-commerce. It's built with Spring Boot, Spring Security (JWT authentication), and Spring Data JPA, ensuring secure and efficient wishlist operations.
 # System Features
