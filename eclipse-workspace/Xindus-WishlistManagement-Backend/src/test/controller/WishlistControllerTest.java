@@ -19,6 +19,7 @@ import org.springframework.security.core.Authentication;
 
 import com.example.demo.entity.Wishlist;
 import com.example.demo.service.WishlistServiceImpl;
+import com.example.demo.controller.WishlistController;
 
 @ExtendWith(MockitoExtension.class)
 public class WishlistControllerTest {
